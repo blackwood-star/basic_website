@@ -7,3 +7,4 @@ Version: 1
 Author: Pixel Perfect Team
 Author URI: http://pixelperfect.mk/
 Keywords: HTML, CSS, Bootstrap, Responsive, Javascript, jQuery, Parallax, Portfolio, CV, Resume
+
